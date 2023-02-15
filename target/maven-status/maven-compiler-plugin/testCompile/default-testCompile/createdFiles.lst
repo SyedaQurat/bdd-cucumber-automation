@@ -1,0 +1,6 @@
+Configuration/BaseConfiguration.class
+PajeObjects/LoginPage.class
+StepDefinition/AddItemToCartMethods.class
+StepDefinition/LoginMethods.class
+Runner/TestRunner.class
+PajeObjects/AddToCartPages.class
